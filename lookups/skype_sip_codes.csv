@@ -1,4 +1,4 @@
-"vendor_action,"name","description","action"
+"vendor_action","name","description","action"
 "100","Trying","Extended search being performed may take a significant time so a forking proxy must send a 100 Trying response.",
 "180","Ringing","Destination user agent received INVITE, and is alerting user of call.",
 "181","Call is Being Forwarded","Servers can optionally send this response to indicate a call is being forwarded.",
